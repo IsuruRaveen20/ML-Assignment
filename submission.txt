@@ -1,0 +1,8 @@
+GitHub Repository : <add link>
+Member 1 Video   : <add YouTube link — MS269448>
+Member 2 Video   : <add YouTube link — MS26912370>
+
+# Instructions
+1. Push to a PUBLIC GitHub repository
+2. Record 5-min video per member
+3. Fill in links above before submitting
