@@ -28,3 +28,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Run notebooks in order: 01 → 02 → 03 → 04
+
+## Run Order
+Run notebooks in order: 01 -> 02 -> 03 -> 04.
