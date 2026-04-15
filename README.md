@@ -3,7 +3,7 @@
 
 | Member | Student ID | Notebooks |
 |--------|-----------|-----------|
-| Member 1 | MS269448 | 01_EDA_and_Preprocessing, 02_Random_Forest |
+| Member 1 | MS26912448 | 01_EDA_and_Preprocessing, 02_Random_Forest |
 | Member 2 | MS26912370 | 03_SVM, 04_Results_Comparison |
 
 ## Dataset
